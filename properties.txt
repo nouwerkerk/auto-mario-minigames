@@ -1,0 +1,11 @@
+# top screen
+topScreenX=199
+topScreenY=0
+
+# bottom screen
+bottomScreenX=198
+bottomScreenY=960
+
+screenWidth=960
+screenHeight=720
+screenScale=3.75
