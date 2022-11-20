@@ -1,10 +1,10 @@
 # top screen
-topScreenX=199
-topScreenY=0
+topScreenX=0
+topScreenY=199
 
 # bottom screen
-bottomScreenX=198
-bottomScreenY=960
+bottomScreenX=960
+bottomScreenY=199
 
 screenWidth=960
 screenHeight=720
