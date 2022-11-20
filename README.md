@@ -1,0 +1,1 @@
+# auto-mario-minigames
